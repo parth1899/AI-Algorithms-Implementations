@@ -1,3 +1,5 @@
+% Expert System for recommending technology stacks based on user preferences and project requirements.
+
 :- use_module(library(pce)).
 :- dynamic recommendation/1.
 

@@ -1,3 +1,5 @@
+% Prolog based Family Tree rules which can be used to query relationships between family members.
+
 % Facts: parent, male, female, married,  
 
 % Grandparent Rule

@@ -1,3 +1,7 @@
+// Alphanumeric Constraint Satisfactory Problem (CSP) - Word Puzzle
+// Given a word puzzle, find the mapping of letters to digits that satisfies the equation
+// MATH + MYTH = HARD
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

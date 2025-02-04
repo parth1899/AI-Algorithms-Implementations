@@ -1,3 +1,5 @@
+// A* Algorithm implementation in C++
+
 #include <iostream>
 #include <map>
 #include <vector>

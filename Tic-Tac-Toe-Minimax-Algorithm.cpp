@@ -1,3 +1,5 @@
+// Tic Tac Toe game with AI using Minimax algorithm. 
+
 #include<iostream>
 #include<vector>
 #include<algorithm>

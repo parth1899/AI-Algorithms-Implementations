@@ -1,3 +1,5 @@
+// Heuristic Best First Search algorithm implementation in C++.
+
 #include <iostream>
 #include <queue>
 #include <map>
